@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is William. I am currently studying IT-security and software testing in Sweden.</p>
+<p align="left">My name is William. I am currently studying IT-security and software testing in Sweden. and working part time as a software developer for Trafikverket.</p>
 
 ###
 
